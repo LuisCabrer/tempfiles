@@ -1,0 +1,8 @@
+{   
+    "name" : "recipes",  
+    "description" : "Recipes in different languages.",  
+    "type" : "azureblob",
+    "credentials" :
+      { "connectionString" : "DefaultEndpointsProtocol=https;AccountName=luiscastore;AccountKey=sVdsPTFklEiZVTWq2af++cQtZy1906cMrGaJ3lE4UYE1nd8YIVluIP2M1wgzpFmnE/lA0Ea75EbC2pTGs8K0dQ==;EndpointSuffix=core.windows.net" },  
+    "container" : { "name" : "multilang" }
+}  
